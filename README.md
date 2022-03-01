@@ -34,3 +34,27 @@ Phases of the AirBnB clone project:
 ### Style
 ***
 * Code should use the PEP 8 style (version 2.7.*).
+
+### Repository Projects
+***
+#### Tasks:
+| Files | Description |
+| --- | --- |
+| [`models/base_model.py`]() | Defines all common attributes/methods for other classes. |
+| [`models/engine/file_storage.py`]() | Serializes instances to a JSON file and deserializes JSON file to instances. |
+| [`console.py`]() | Contains the entry point of the command interpreter. |
+| [`models/user.py`]() | Defines subclass User. |
+| [`models/state.py`]() | Defines subclass State. |
+| [`models/city.py`]() | Defines subclass City. |
+| [`models/amenity.py`]() | Defines subclass Amenity |
+| [`models/place.py`]() | Place file that contains detailed information about the place to be rented. |
+| [`models/review.py`]() | Defines subclass Review. |
+| [`tests/test_console.py`]() | unittests for console. |
+| [`tests/test_models/test_base_model.py`]() | unittests for base_model. |
+| [`tests/test_models/test_user.py`]() | Unittests for user. |
+| [`tests/test_models/test_state.py`]() | Unittests for state. |
+| [`tests/test_models/test_city.py`]() | Unittests for city. |
+| [`tests/test_models/test_amenity.py`]() | Unittests for amenity. |
+| [`tests/test_models/test_place.py`]() | Unittests for place. |
+| [`tests/test_models/test_review.py`]() | Unittests for review. |
+| [`tests/test_models/test_engine/test_file_storage.py`]() | Unittests for file_storage. |
