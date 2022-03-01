@@ -1,6 +1,6 @@
 # 0x00. AirBnB clone - The console
 
- ![HNBN](https://github.com/zye7ert/AirBnB_clone/blob/master/picture/HBNB-HolbertonAirbnb.png)
+ ![HNBN](https://github.com/zye7ert/AirBnB_clone/blob/main/imagen/airbnb-logo.png)
 
 ### Descripción
 ***
